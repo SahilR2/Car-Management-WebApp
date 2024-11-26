@@ -33,7 +33,7 @@ The **Car Management Application** is a web-based platform that allows users to 
 ### Backend
 - **Node.js**: Server-side runtime.
 - **Express.js**: Backend framework for API creation.
-- **MongoDB**: Database for storing car and user data.
+- **PostgresSQL**: Database for storing car and user data.
 - **Multer**: Middleware for handling file uploads.
 - **JWT**: Authentication via JSON Web Tokens.
 
@@ -43,7 +43,7 @@ The **Car Management Application** is a web-based platform that allows users to 
 
 ### Prerequisites
 - Node.js (>= 16.x)
-- MongoDB instance (local or cloud-based)
+- PostgresSQL instance
 - Basic knowledge of React and REST APIs
 
 ### Backend Setup
